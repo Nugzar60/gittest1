@@ -23,6 +23,7 @@ async def read_root():
 
 # Выводим результат на экран
     print("letters:",result)
+    print("privet papa")
     return {result,"letters:"}
 
 #    return {"str": "Hello world!"}

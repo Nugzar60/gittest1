@@ -32,22 +32,6 @@ async def read_root():
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.

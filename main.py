@@ -26,12 +26,6 @@ async def read_root():
     print("privet papa")
     return {result,"letters:"}
 
-#    return {"str": "Hello world!"}
-#   return {"letters": 11}
-#    my_string: str ='Hello, world!'
-#    print(len(my_string))
-
-
 
 
 
